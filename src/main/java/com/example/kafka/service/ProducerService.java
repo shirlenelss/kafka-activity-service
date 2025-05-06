@@ -1,4 +1,4 @@
-package com.example.kafka;
+package com.example.kafka.service;
 
 import com.example.kafka.config.SubjectTopics;
 import org.springframework.beans.factory.annotation.Autowired;

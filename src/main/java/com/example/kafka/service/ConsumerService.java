@@ -1,4 +1,4 @@
-package com.example.kafka;
+package com.example.kafka.service;
 
 import com.example.kafka.config.SubjectConsumerGroups;
 import com.example.kafka.config.SubjectTopics;

@@ -10,7 +10,7 @@ import org.springframework.kafka.annotation.KafkaListener;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
-import static com.example.kafka.ProducerService.NEW_SUBJECT_TOPIC;
+import static com.example.kafka.service.ProducerService.NEW_SUBJECT_TOPIC;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 
